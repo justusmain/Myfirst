@@ -1,9 +1,6 @@
 # Myfirst
 My first repostory to store and write
- # day one
+#day one
 install gitbash
-# day two
-introduction to command line
-# day three 
-
-  
+#day two
+introduction to command
